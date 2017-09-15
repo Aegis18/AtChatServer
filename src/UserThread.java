@@ -25,7 +25,7 @@ public class UserThread extends Thread{
 
     @Override
     public void run(){
-//        Manager man = new Manager();
+//        DataBaseManager man = new DataBaseManager();
 //        if(man.checkForUser("rangeroverkill@gmail.com"))
 //            System.out.println("person found");
 //        else
